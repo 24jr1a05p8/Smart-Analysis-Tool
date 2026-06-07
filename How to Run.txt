@@ -1,0 +1,34 @@
+How to Run
+
+Option 1: Google Colab
+
+1. Open the "Smart_Analytics_Tool.ipynb" notebook in Google Colab.
+2. Upload the IPL CSV dataset when prompted.
+3. Run all cells sequentially.
+4. View the dataset preview, missing value analysis, statistical summary, and visualizations.
+
+Option 2: Jupyter Notebook
+
+1. Install required libraries:
+
+   pip install pandas matplotlib seaborn
+
+2. Open Jupyter Notebook.
+
+3. Open "Smart_Analytics_Tool.ipynb".
+
+4. Run all cells.
+
+5. Explore the generated analysis and charts.
+
+Output
+
+The tool provides:
+
+- Dataset Preview
+- Missing Value Analysis
+- Statistical Summary
+- Top Run Scorers Visualization
+- Top Wicket Takers Visualization
+- Matches Per Season Analysis
+- Data Insights
